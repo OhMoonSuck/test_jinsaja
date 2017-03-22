@@ -1,0 +1,5 @@
+git init 
+git add "aaa"
+git commit -m "first commit"
+git remote add origin https://github.com/OhMoonSuck/test_jinsaja.git
+git push -u origin master
